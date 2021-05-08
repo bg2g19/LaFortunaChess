@@ -1,3 +1,8 @@
+/*  Author: Ben Gibbs
+ * Licence: This work is licensed under the Creative Commons Attribution License.
+ *           View this license at http://creativecommons.org/about/licenses/
+ */
+
 #define TILESIZE 30
 
 #define LIGHT_BROWN 0xCB46
